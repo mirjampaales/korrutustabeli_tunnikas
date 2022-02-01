@@ -6,5 +6,7 @@
 Parameetrid, mida muuta saab:
 - tehete arv
 - ajapiirang
+- tagasiside tekstid
+- kui suurte arvudega tehteid olla võib
 
 Kui aeg saab otsa või kõik arvutused on tehtud, tekib failiga kood.py samasse kausta fail, mille nimes on õppija sisestatud nimi ja punktisumma.
