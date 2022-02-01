@@ -1,0 +1,10 @@
+1. Paigalda arvutiklassi arvutitesse Thonny (https://thonny.org/)
+2. Ava Thonnyga fail kood.py
+3. Vajuta üleval putuka kõrval olevat play nuppu
+4. Vajadusel muuda koodi alguses olevaid parameetreid
+
+Parameetrid, mida muuta saab:
+- tehete arv
+- ajapiirang
+
+Kui aeg saab otsa või kõik arvutused on tehtud, tekib failiga kood.py samasse kausta fail, mille nimes on õppija sisestatud nimi ja punktisumma.
